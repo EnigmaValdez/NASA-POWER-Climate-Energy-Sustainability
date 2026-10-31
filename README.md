@@ -1,4 +1,4 @@
-# nasa-climate-energy-sustainability
+# NASA-climate-energy-sustainability
 
 Please see Google Doc here: https://docs.google.com/document/d/1kS_3-IHO0DqVIXuUWVn5cqDojmXkjyiAPDaAl13zSms/edit?tab=t.0
 
