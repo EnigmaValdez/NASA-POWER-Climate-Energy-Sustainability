@@ -50,7 +50,7 @@ Following *Guerrilla Data Analysis* principles, the raw data dump was systematic
 ### Project Summary
 This project delivers an end-to-end data pipeline and exploratory analysis utilizing 16+ years of daily climate, energy, and sustainability observations (2010–2026) from the NASA POWER dataset for the Pasadena region (Latitude: 36.5328, Longitude: -119.2702)[cite: 10.2]. Utilizing Power Query for robust data ingestion, missing-value neutralization, and type enforcement, the raw data was transformed into a multi-tab analytical model in Excel[cite: 10.2]. The workbook features structured Pivot Table matrices and dynamic PivotCharts following Oz du Soleil's *Guerrilla Data Analysis* methodology, tracking long-term trends in monthly surface temperature (`T2M`) and surface solar shortwave downward irradiance (`ALLSKY_SFC_SW_DWN`)[cite: 10.2].
 
-### Strategic Industry Recommendations for Pasadena Employers
+### Strategic Industry Recommendations for Pasadena Tech Companies
 
 * **Aerospace & Systems Engineering (JPL / Defense Sector):**
   * **Application:** Multi-year thermal matrix (`MultiYear Temp Matrix`) and dynamic line charts provide baseline historical temperature volatility exceeding 30°C in peak summer months[cite: 10.2].
